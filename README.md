@@ -77,12 +77,18 @@
 - [Forúm ofical](http://forum.vuejs.org/)
 
 ### Podcasts
+- [Views on Vue](https://devchat.tv/views-on-vue/)
+- [Devnaestrada](https://devnaestrada.com.br/2018/01/05/vale-pena-vuejs.html)
+- [Awesome Vue.js Podcasts](https://awesome-vue.js.org/resources/podcasts.html)
+- [Madewithvuejs.](https://madewithvuejs.com/blog/podcasts-for-vue-devs)
 - livre para contribuição
 
 ### Canais do Youtube
 - livre para contribuição
 
 ### Livros
+- [Casa do Codigo.](https://www.casadocodigo.com.br/products/livro-vue)
+- [Academia Edu.](https://www.academia.edu/33214318/Livro_vue)
 - livre para contribuição
 
 
