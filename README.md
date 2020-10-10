@@ -7,9 +7,9 @@
 
 ## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome things related to Vue.js for beginners
+> Uma curadoria de coisas incríveis para quem está começando em Vue.js
 
-### Fontes oficias do Vue.js
+### Fontes oficias do Vue.js 🍾
 
 - [Guia oficial](http://vuejs.org/guide/)
 - [Referência API](http://vuejs.org/api/)
@@ -18,7 +18,7 @@
 - [Guia de estilo](https://vuejs.org/v2/style-guide/)
 - [Notícias de Vue.js](https://news.vuejs.org/)
 
-### Blogs & Artigos
+### Blogs & Artigos 📔
 
 - [Guia completo de Vue.js para iniciantes](http://vuejs.org/guide/)
 - [Blog sobre artigos e tutorias](https://medium.com/@anthonygore)
@@ -26,7 +26,7 @@
 - [Blog do VuePoint](https://medium.com/the-vue-point)
 - [Blog sobre Vue.js e Javascript](https://medium.com/js-dojo)
 
-### Vídeos & Tutorias
+### Vídeos & Tutorias 📼
 
 - [Vue.js e Firestore](https://www.youtube.com/playlist?list=PLillGF-RfqbYsOOycB67Raf9dwmL6Y31M)
 - [Uma rápida comparação de Vue.js vs React.js vs Angular](https://www.youtube.com/watch?v=lYWYWyX04JI)
@@ -46,7 +46,7 @@
 - [CRUD usando Node.js + Vue.js + PostgreSQL ao vivo](https://www.youtube.com/watch?v=G_8Pi7Y1eiE)
 - [Vídeo explicando quando usar Vue.js e quando usar JS puro](https://www.youtube.com/watch?v=rNsPC-Y_K10)
 
-### Cursos
+### Cursos 📺
 
 - [Vuex - State Management](https://www.youtube.com/watch?v=XtbYBoKb2zY)
 - [Curso rápido de Vue.js](https://www.youtube.com/watch?v=Wy9q22isx3U&t=2412s)
@@ -54,19 +54,19 @@
 - [Vue.js 2](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 - [Curso de Vue.js + Firestore](https://www.youtube.com/playlist?list=PLillGF-RfqbYsOOycB67Raf9dwmL6Y31M)
 
-### Projetos Open-sources & Exemplos
+### Projetos Open-sources & Exemplos 🎨
 
 - [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
 - [CoffeeScript Version](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
 - [**Vue.js HackerNews Clone**](https://github.com/vuejs/vue-hackernews)
 - [**Vue.js 2.0 HackerNews Clone**](https://github.com/vuejs/vue-hackernews-2.0)
 
-### Portais de emprego
+### Portais de emprego 🛄
 
 - [Vue.js Jobs](https://vuejobs.com/)
 - [Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions) - Uma lista de 300 questões e respostas de Vue.js
 
-### Comunidades
+### Comunidades 👨‍👩‍👧‍👧
 
 - [Vue.js Angola - Comunidade no Facebook](https://www.facebook.com/groups/371849227190800)
 - [Vue.js Irão - Comunidade no Telegram](https://telegram.me/vue_js)
@@ -76,23 +76,21 @@
 - [Vue.js - Comunidade no Twitter](https://twitter.com/vuejs)
 - [Forúm ofical](http://forum.vuejs.org/)
 
-### Podcasts
+### Podcasts 🎙
 - [Views on Vue](https://devchat.tv/views-on-vue/)
-- [Devnaestrada](https://devnaestrada.com.br/2018/01/05/vale-pena-vuejs.html)
+- [DevNaEstrada](https://devnaestrada.com.br/2018/01/05/vale-pena-vuejs.html)
 - [Awesome Vue.js Podcasts](https://awesome-vue.js.org/resources/podcasts.html)
-- [Madewithvuejs.](https://madewithvuejs.com/blog/podcasts-for-vue-devs)
-- livre para contribuição
+- [MadeWithVuejs.](https://madewithvuejs.com/blog/podcasts-for-vue-devs)
 
 ### Canais do Youtube
 - livre para contribuição
 
-### Livros
-- [Casa do Codigo.](https://www.casadocodigo.com.br/products/livro-vue)
-- [Academia Edu.](https://www.academia.edu/33214318/Livro_vue)
-- livre para contribuição
+### Livros 📚
+- [Vue.js - Construa aplicações incríveis 💲](https://www.casadocodigo.com.br/products/livro-vue)
+- [Vue.js na prática 🆓 ](https://www.academia.edu/33214318/Livro_vue)
 
 
-### Sites/WebApps que usam Vue
+### Sites/WebApps que usam Vue 🕹
 
 - [Laravel Spark](https://spark.laravel.com/)
 - [Laracast](https://laracasts.com/)
@@ -103,7 +101,7 @@
 - [Item manager](https://itemmanager.uk/) - Uma aplicação para transferir itens do jogo Destiny2
 - [MadeWithVueJs](https://madewithvuejs.com/) - Galeria que mostra aplicações criadas com Vue.js
 
-### Empresas usando Vue
+### Empresas usando Vue 🏚
 
 - Alibaba
 - Baidu
@@ -137,13 +135,10 @@
 - [Blibli](https://www.blibli.com)
 - [Manduka](https://www.manduka.com/)
 
-### Componentes e Bibliotecas
-- livre para contribuição
+### Componentes e Bibliotecas 🧬
 
 
-
-### Integrações
-- livre para contribuição
+### Integrações 🔗
 
 <br/>
 <br/>
